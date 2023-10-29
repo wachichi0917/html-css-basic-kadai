@@ -20,13 +20,15 @@ html{
 .pink{
   color: rgb(255,192,203);
 }
+
+.line{
+ border-bottom: solid  5px rgb(194, 187, 187);
+}
+  
 .decoration{
   border-top: solid 5px rgb(194, 187, 187);
   border-bottom: solid 3px rgb(115,115,114);
 }
 #parent > p{
   font-weight: bold;
-}
-.line{
-  border-bottom: solid 5px rgb(194, 187, 187);
 }
